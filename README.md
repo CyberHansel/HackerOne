@@ -11,5 +11,7 @@
 * add ' or random text after id or = parameter  
 * 1.) b64d = lambda x: base64.decodestring(x.replace('~', '=').replace('!', '/').replace('-', '+'))   
   2.) ValueError: Input strings must be a multiple of 16 in length  
-  PadBuster tool  
+  PadBuster tool    
+* /fetch?id=-1 UNION select '/../../main.py'  
+* 
 
